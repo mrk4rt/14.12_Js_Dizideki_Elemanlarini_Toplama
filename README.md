@@ -1,0 +1,2 @@
+# 14.12_Js_Dizideki_Elemanlarini_Toplama
+14.12_Js_Dizideki_Elemanlarini_Toplama
